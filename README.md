@@ -10,7 +10,7 @@ N/A
 ## Usage
 ![Horiseon-Homepage screenshot](https://user-images.githubusercontent.com/110499007/190916445-c8d8c567-b1cf-42f6-a84c-d3d4101a84fc.jpg)
 
-The screenshot above shows the homepage that was created for Horiseon company and can be used using the URL shown below 
+The screenshot above shows the homepage that was created for Horiseon company and can be used using the url in the repo
 
 ## Credits
 
